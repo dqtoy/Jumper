@@ -49,6 +49,10 @@ public class PlayerController : MonoBehaviour {
 		//controls x movement
 		#if UNITY_EDITOR || UNITY_STANDALONE || UNITY_WEBPLAYER
 
+		float newX = Input.GetAxis("Horizontal") * X_SPEED;
+		Vector3 target = rb.velocity;
+		target.x = newX;
+		rb.velocity = target;
 
 		#elif UNITY_IOS || UNITY_ANDROID || UNITY_WP8 || UNITY_IPHONE
 
