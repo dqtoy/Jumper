@@ -1,5 +1,6 @@
 # Jumper
-A simple 3d game made with Unity
+- A simple 3d game made with Unity
+- First game I have ever built
 
 # Platform Notes
 - This game is compatible with Iphone. However, due to me having no experience with macbooks and not having one, there is no build for iphones yet.
