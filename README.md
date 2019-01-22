@@ -20,11 +20,9 @@ In Jumper, the main goal is to score as much as possible.
 - For testing purposes, the current build setting for the game is on android.
 
 ## Links
-Play Store Link:
-playstorelinkplaceholder
+Play Store Link: Due to technical difficulties with my computer, the game is not currently on any stores.
 
-Trailer for the game:
-youtubelinkplaceholder
+Trailer for the game: https://youtu.be/dhjQr-UIP1I
 
 ## Gallery
 <p align="middle">
